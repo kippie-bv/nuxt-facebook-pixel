@@ -1,6 +1,6 @@
 {
     "name": "@kippie-bv/nuxt-facebook-pixel",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Facebook Pixel integration for Nuxt",
     "main": "lib/module.js",
     "author": "Mees Hoogendoorn",
